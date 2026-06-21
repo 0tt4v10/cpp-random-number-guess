@@ -8,7 +8,7 @@ int main() {
     int guess = 0;
     int tries = 0;
 
-    std::cout << "Welcome to Random Number Game (1-100)\n\n";
+    std::cout << "Welcome to my Random Number Game (1-100)\n\n";
 
     while (guess != secret) {
         std::cout << "Your tipp: ";
